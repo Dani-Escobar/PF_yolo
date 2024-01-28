@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+Mascara:128,0,0::
+cobre:0,128,0::
+background:0,0,0::
